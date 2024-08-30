@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/143039740?v=4"  />
-</div>
-
 ###
 
 <div align="center">
@@ -37,8 +33,6 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original.svg" height="40" alt="docker logo" style="filter: brightness(0) invert(1);" />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-line.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
@@ -58,7 +52,4 @@
   <img src="https://streak-stats.demolab.com?user=AlejoLg1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 ###
