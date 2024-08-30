@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="src/csharp-original.png" height="40" alt="c-sharp logo"  />
   <img width="12" />
-  <img src="src/dot-net-original.png" height="50" alt="dot-net logo"  />
+  <img src="src/dot-net-framework.png" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="src/mysql-original.png" height="40" alt="my-sql logo"  />
   <img width="12" />
