@@ -18,32 +18,32 @@
 
 ###
 
-<p align="left">I'm Alejo Legname from Buenos Aires, Argentina<br><br>- 🔭 I’m working as Back End Developer<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time I do Car detailing</p>
+<p align="left">I'm Alejo Legname from Buenos Aires, Argentina<br><br>- 🔭 I’m working as Back End Developer<br>- 📚 I'm currently learning C# with .NET Framework<br>- ⚡ In my free time I do Car detailing</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
 <div align="left">
-  <img src="src/python-original.png" height="40" alt="python logo"  />
+  <a href="https://www.python.org/"><img src="src/python-original.png" height="40" alt="python logo"  /></a>
   <img width="12" />
-  <img src="src/django-icon.png" height="40" alt="django logo"  />
+  <a href="https://www.djangoproject.com/"><img src="src/django-icon.png" height="40" alt="django logo"  /></a>
   <img width="12" />
-  <img src="src/flask-horizontal.png" height="40" alt="flask logo"  />
+  <a href="https://flask.palletsprojects.com/en/3.0.x/#"><img src="src/flask-horizontal.png" height="40" alt="flask logo"  /></a>
   <img width="12" /> 
-  <img src="src/cplusplus-original.png" height="40" alt="c-plus-plus logo"  />
+  <a href="https://isocpp.org/get-started"><img src="src/cplusplus-original.png" height="40" alt="c-plus-plus logo"  /></a>
   <img width="12" />
-  <img src="src/csharp-original.png" height="40" alt="c-sharp logo"  />
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="src/csharp-original.png" height="40" alt="c-sharp logo"  /></a>
   <img width="12" />
-  <img src="src/dot-net-framework.png" height="40" alt="dot-net logo"  />
+  <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img src="src/dot-net-framework.png" height="40" alt="dot-net logo"  /></a>
   <img width="12" />
-  <img src="src/mysql-original.png" height="40" alt="my-sql logo"  />
+  <a href="https://www.mysql.com/"><img src="src/mysql-original.png" height="40" alt="my-sql logo"  /></a>
   <img width="12" />
-  <img src="src/mongodb-original.png" height="40" alt="mongo-db logo"  />
+  <a href="https://www.mongodb.com"><img src="src/mongodb-original.png" height="40" alt="mongo-db logo"  /></a>
   <img width="12" />
-  <img src="src/docker-plain.png" height="50" alt="docker logo"  />
+  <a href="https://www.docker.com/"><img src="src/docker-plain.png" height="50" alt="docker logo"  /></a>
 </div>
 
 ###
