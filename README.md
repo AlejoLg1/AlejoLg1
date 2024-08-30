@@ -29,19 +29,21 @@
 <div align="left">
   <img src="src/python-original.png" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="src/django-plain.png" height="40" alt="django logo"  />
+  <img src="src/django-icon.png" height="40" alt="django logo"  />
   <img width="12" />
   <img src="src/flask-horizontal.png" height="40" alt="flask logo"  />
   <img width="12" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-line.svg" height="40" alt="dot-net logo"  />
+  <img src="src/cplusplus-original.png" height="40" alt="c-plus-plus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="src/csharp-original.png" height="40" alt="c-sharp logo"  />
+  <img width="12" />
+  <img src="src/dot-net-original.png" height="50" alt="dot-net logo"  />
   <img width="12" />
   <img src="src/mysql-original.png" height="40" alt="my-sql logo"  />
   <img width="12" />
   <img src="src/mongodb-original.png" height="40" alt="mongo-db logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="src/docker-plain.png" height="50" alt="docker logo"  />
 </div>
 
 ###
