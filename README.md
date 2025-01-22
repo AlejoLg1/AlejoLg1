@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Alejo Legname from Buenos Aires, Argentina<br><br>- 🔭 I’m working as Back End Developer<br>- 📚 I'm currently learning C# with .NET Framework<br>- ⚡ In my free time I do Car detailing</p>
+<p align="left">I'm Alejo Legname from Buenos Aires, Argentina<br><br>- 🔭 I’m working as Back End Developer<br>- 📚 I'm currently learning Next.js with TypeScript<br>- ⚡ In my free time I do Car detailing</p>
 
 ###
 
