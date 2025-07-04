@@ -27,23 +27,23 @@
 ###
 
 <div align="left">
-  <a href="https://www.python.org/"><img src="src/python-original.png" height="40" alt="python logo"  /></a>
+  <a href="https://www.python.org/"><img src="src/python-original.png" width="40" alt="python logo" /></a>
   <img width="12" />
-  <a href="https://www.djangoproject.com/"><img src="src/django-icon.png" height="40" alt="django logo"  /></a>
+  <a href="https://www.djangoproject.com/"><img src="src/django-icon.png" width="40" alt="django logo" /></a>
   <img width="12" />
-  <a href="https://flask.palletsprojects.com/en/3.0.x/#"><img src="src/flask-horizontal.png" height="40" alt="flask logo"  /></a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/#"><img src="src/flask-horizontal.png" width="40" alt="flask logo" /></a>
   <img width="12" /> 
-  <a href="https://isocpp.org/get-started"><img src="src/cplusplus-original.png" height="40" alt="c-plus-plus logo"  /></a>
+  <a href="https://isocpp.org/get-started"><img src="src/cplusplus-original.png" width="40" alt="c-plus-plus logo" /></a>
   <img width="12" />
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="src/csharp-original.png" height="40" alt="c-sharp logo"  /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="src/csharp-original.png" width="40" alt="c-sharp logo" /></a>
   <img width="12" />
-  <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img src="src/dot-net-framework.png" height="40" alt="dot-net logo"  /></a>
+  <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img src="src/dot-net-framework.png" width="40" alt="dot-net logo" /></a>
   <img width="12" />
-  <a href="https://www.mysql.com/"><img src="src/mysql-original.png" height="40" alt="my-sql logo"  /></a>
+  <a href="https://www.mysql.com/"><img src="src/mysql-original.png" width="40" alt="my-sql logo" /></a>
   <img width="12" />
-  <a href="https://www.mongodb.com"><img src="src/mongodb-original.png" height="40" alt="mongo-db logo"  /></a>
+  <a href="https://www.mongodb.com"><img src="src/mongodb-original.png" width="40" alt="mongo-db logo" /></a>
   <img width="12" />
-  <a href="https://www.docker.com/"><img src="src/docker-plain.png" height="50" alt="docker logo"  /></a>
+  <a href="https://www.docker.com/"><img src="src/docker-plain.png" width="40" alt="docker logo" /></a>
 </div>
 
 ###
