@@ -1,59 +1,84 @@
-###
+<div align="center">
+
+# Hi, I'm Alejo Legname 👋
+
+### Backend Engineer | Java, Spring Boot, REST APIs & SQL
+
+Backend-focused Software Engineer from Buenos Aires, Argentina, experienced in building secure services, APIs, data-intensive systems, and cross-platform integrations.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejo%20Legname-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejo-lg/)
+[![Email](https://img.shields.io/badge/Email-legname.alejo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:legname.alejo@gmail.com)
+
+</div>
+
+## About me
+
+I work primarily on backend engineering with Java, Spring Boot, Python, Django, TypeScript, REST APIs, microservices, and SQL databases.
+
+My experience includes digital identity, authentication and authorization, multi-tenant systems, asynchronous processing, relational data modeling, database optimization, and integrations between complex platforms.
+
+Currently, I contribute to a multi-tenant identity and access management platform, developing backend capabilities, evolving APIs and data models, improving SQL Server performance, and collaborating with frontend, QA, and architecture teams.
+
+I also have full-stack experience with Node.js, NestJS, Next.js, and TypeScript, which helps me understand and deliver complete product workflows while keeping backend engineering as my main specialization.
+
+## Core technologies
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+### Architecture and APIs
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-2F74C0?style=flat-square)
+![Multi--Tenant Systems](https://img.shields.io/badge/Multi--Tenant%20Systems-6A5ACD?style=flat-square)
+![Asynchronous Processing](https://img.shields.io/badge/Asynchronous%20Processing-8A2BE2?style=flat-square)
+![IAM](https://img.shields.io/badge/Identity%20%26%20Access%20Management-34495E?style=flat-square)
+
+### Data
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-555555?style=flat-square)
+![Query Optimization](https://img.shields.io/badge/Query%20Optimization-555555?style=flat-square)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+
+## Areas of experience
+
+- Backend service and REST API development
+- Authentication, authorization, and identity management
+- Multi-tenant and data-intensive systems
+- Microservices and asynchronous workflows
+- Relational data modeling and query optimization
+- Cross-platform integrations
+- Technical documentation and AI-assisted automation
+- Cross-functional delivery with frontend, QA, and architecture teams
+
+## Beyond backend
+
+Outside of software development, I enjoy automotive detailing and learning about the processes, tools, and techniques involved in vehicle care.
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alejo-lg/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="mailto:legname.alejo@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://discord.com/users/alejo.legname" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+
+### Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/alejo-lg/) · [Email](mailto:legname.alejo@gmail.com)
+
 </div>
-
-###
-
-###
-
-<h1 align="center">Hey there👋! </h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Alejo Legname from Buenos Aires, Argentina<br><br>- 🔭 I’m working as Back End Developer<br>- 📚 I'm currently learning Next.js with TypeScript<br>- ⚡ In my free time I do Car detailing</p>
-
-###
-
-<h3 align="left">🛠 Languages and tools</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.python.org/"><img src="src/python-original.png" width="40" alt="python logo" /></a>
-  <img width="12" />
-  <a href="https://www.djangoproject.com/"><img src="src/django-icon.png" width="40" alt="django logo" /></a>
-  <img width="12" />
-  <a href="https://flask.palletsprojects.com/en/3.0.x/#"><img src="src/flask-horizontal.png" width="40" alt="flask logo" /></a>
-  <img width="12" /> 
-  <a href="https://isocpp.org/get-started"><img src="src/cplusplus-original.png" width="40" alt="c-plus-plus logo" /></a>
-  <img width="12" />
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="src/csharp-original.png" width="40" alt="c-sharp logo" /></a>
-  <img width="12" />
-  <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework"><img src="src/dot-net-framework.png" width="40" alt="dot-net logo" /></a>
-  <img width="12" />
-  <a href="https://www.mysql.com/"><img src="src/mysql-original.png" width="40" alt="my-sql logo" /></a>
-  <img width="12" />
-  <a href="https://www.mongodb.com"><img src="src/mongodb-original.png" width="40" alt="mongo-db logo" /></a>
-  <img width="12" />
-  <a href="https://www.docker.com/"><img src="src/docker-plain.png" width="40" alt="docker logo" /></a>
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlejoLg1&theme=holi-theme&mode=weekly" alt="GitHub Streak" /></a>
-</div>
-
-###
